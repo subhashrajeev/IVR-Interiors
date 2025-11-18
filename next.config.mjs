@@ -11,6 +11,7 @@ const nextConfig = {
         hostname: 'source.unsplash.com',
       },
     ],
+    unoptimized: true, // Allow unoptimized images for external sources
   },
 };
 

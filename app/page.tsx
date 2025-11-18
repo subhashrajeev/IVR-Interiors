@@ -33,37 +33,37 @@ export default function Home() {
       icon: FaKitchenSet,
       title: 'Modular Kitchens',
       description: 'Custom designed kitchens that blend style with functionality',
-      image: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=600&h=400&q=80',
     },
     {
       icon: BiCloset,
       title: 'Wardrobes',
       description: 'Spacious and elegant wardrobe solutions for every bedroom',
-      image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&h=400&q=80',
     },
     {
       icon: FaTv,
       title: 'TV Units',
       description: 'Modern entertainment units that enhance your living space',
-      image: 'https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=600&h=400&q=80',
     },
     {
       icon: MdRoofing,
       title: 'False Ceiling',
       description: 'Beautiful ceiling designs that add elegance to your interiors',
-      image: 'https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=600&h=400&q=80',
     },
     {
       icon: FaCouch,
       title: 'Interior Renovation',
       description: 'Complete home transformation with modern design aesthetics',
-      image: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=600&h=400&q=80',
     },
     {
       icon: GiWoodBeam,
       title: 'Custom Carpentry',
       description: 'Bespoke furniture and fittings tailored to your needs',
-      image: 'https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=600&h=400&fit=crop',
+      image: 'https://images.unsplash.com/photo-1565538810643-b5bdb714032a?auto=format&fit=crop&w=600&h=400&q=80',
     },
   ];
 
@@ -79,7 +79,7 @@ export default function Home() {
           className="absolute inset-0 z-0"
         >
           <Image
-            src="https://images.unsplash.com/photo-1600210492493-0946911123ea?w=1920&h=1080&fit=crop"
+            src="https://images.unsplash.com/photo-1600210492493-0946911123ea?auto=format&fit=crop&w=1920&h=1080&q=80"
             alt="Modern Interior Design"
             fill
             className="object-cover"

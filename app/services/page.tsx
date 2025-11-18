@@ -15,7 +15,7 @@ const services = [
     title: 'Modular Kitchens',
     description:
       'Experience the perfect blend of style, functionality, and innovation with our custom-designed modular kitchens. We create spaces that inspire culinary creativity.',
-    image: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=800&h=600&q=80',
     features: [
       'Custom design to match your lifestyle',
       'Premium quality materials and fittings',
@@ -30,7 +30,7 @@ const services = [
     title: 'Wardrobes',
     description:
       'Transform your bedroom with our elegant and spacious wardrobe solutions. From walk-in closets to sliding door wardrobes, we design storage that complements your style.',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=800&h=600&q=80',
     features: [
       'Customized to your space and needs',
       'Variety of finishes and materials',
@@ -45,7 +45,7 @@ const services = [
     title: 'TV Units',
     description:
       'Create the perfect entertainment hub with our modern TV unit designs. Functional, stylish, and tailored to your living room aesthetics.',
-    image: 'https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?w=800&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1598300042247-d088f8ab3a91?auto=format&fit=crop&w=800&h=600&q=80',
     features: [
       'Contemporary and classic designs',
       'Cable management solutions',
@@ -60,7 +60,7 @@ const services = [
     title: 'False Ceiling',
     description:
       'Add elegance and sophistication to your interiors with our beautiful false ceiling designs. Perfect for hiding imperfections while adding aesthetic value.',
-    image: 'https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=800&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1600585152220-90363fe7e115?auto=format&fit=crop&w=800&h=600&q=80',
     features: [
       'Gypsum and POP ceiling options',
       'Integrated lighting solutions',
@@ -75,7 +75,7 @@ const services = [
     title: 'Interior Renovation',
     description:
       'Give your home a complete makeover with our comprehensive interior renovation services. From concept to completion, we transform spaces into dream homes.',
-    image: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=800&h=600&q=80',
     features: [
       'Complete home transformation',
       'Modern design aesthetics',
@@ -90,7 +90,7 @@ const services = [
     title: 'Custom Carpentry',
     description:
       'Bring your unique ideas to life with our custom carpentry services. We create bespoke furniture and fittings tailored to your exact specifications.',
-    image: 'https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=800&h=600&fit=crop',
+    image: 'https://images.unsplash.com/photo-1565538810643-b5bdb714032a?auto=format&fit=crop&w=800&h=600&q=80',
     features: [
       'Bespoke furniture design',
       'Expert craftsmanship',

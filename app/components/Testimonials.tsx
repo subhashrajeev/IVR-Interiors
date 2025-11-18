@@ -12,7 +12,7 @@ const testimonials = [
     location: 'Hyderabad',
     rating: 5,
     text: 'IVR Interiors transformed our kitchen beyond our expectations. The attention to detail and quality of work is exceptional. Highly recommended!',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop',
+    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80',
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const testimonials = [
     location: 'Nizampet',
     rating: 5,
     text: 'Best interior designers in Hyderabad! They completed our modular wardrobe on time with excellent craftsmanship. Very professional team.',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop',
+    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&h=150&q=80',
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const testimonials = [
     location: 'Kukatpally',
     rating: 5,
     text: 'Amazing work on our complete home interior. From kitchen to wardrobes, everything is perfect. Worth every penny!',
-    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop',
+    image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80',
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ const testimonials = [
     location: 'Hyderabad',
     rating: 5,
     text: 'Professional, creative, and punctual. IVR Interiors made our dream kitchen a reality. The team is very cooperative and understands client needs perfectly.',
-    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop',
+    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=150&h=150&q=80',
   },
 ];
 

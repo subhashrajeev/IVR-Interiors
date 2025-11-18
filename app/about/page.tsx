@@ -95,7 +95,7 @@ export default function About() {
             >
               <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=1000&fit=crop"
+                  src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=800&h=1000&q=80"
                   alt="IVR Interiors Team"
                   fill
                   className="object-cover"
